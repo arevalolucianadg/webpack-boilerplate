@@ -1,0 +1,27 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Configuración inicial para proyecto con Webpack",
+  "main": "./src/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arevalolucianadg/webpack-boilerplate.git"
+  },
+  "keywords": [
+    "webpack",
+    "javascript"
+  ],
+  "author": "Luciana Arévalo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arevalolucianadg/webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/arevalolucianadg/webpack-boilerplate#readme",
+  "devDependencies": {
+    "webpack": "^5.21.2",
+    "webpack-cli": "^4.5.0"
+  }
+}
